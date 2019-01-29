@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">FizzBuzz</string>
+  <string name="fizz_toggle_on">Fizz!</string>
+  <string name="buzz_toggle_on">Buzz!</string>
+  <string name="fizz_toggle_off">Fizz</string>
+  <string name="buzz_toggle_off">Buzz</string>
+  <string name="active_correct">Correct = %d</string>
+  <string name="passive_correct">Lazy = %d</string>
+  <string name="incorrect">Incorrect = %d</string>
+</resources>
